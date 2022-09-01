@@ -17,7 +17,7 @@
                     <input type="text" name="uid" placeholder="Username"><br>
                     <input type="email" name="email" placeholder="email"><br>
                     <input type="password" name="pwd" placeholder="Password"><br>
-                    <input type="password" name="pwdConfirm" placeholder="Confirm Password">
+                    <input type="password" name="pwdrepeat" placeholder="Confirm Password">
                     <br>
                     <button type="submit" name="submit">Sign Up</button>
                 </form>
